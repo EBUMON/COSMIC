@@ -1,6 +1,6 @@
 {
-    "name": "RDX",
-    "description": "RDX - Whatsapp Bot",
+    "name": "ADBOT",
+    "description": "ADBOT - Whatsapp Bot",
     "logo": "https://i.imgur.com/14w3OJb.jpegp",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/KINGS-AS/RDX",
@@ -26,7 +26,7 @@
             "required": false,
             "value": "31996800"
          },
-         "TALKING_PINKY": {
+         "TALKING_BOT": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
             "value": "false"
@@ -185,7 +185,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "AS,KINGS♥️AS"
+            "value": "ADBOT"
         },
         "NO_ONLINE": {
             "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",

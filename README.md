@@ -11,7 +11,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="ANUSER1.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
+<img src="Ad.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
 <a href="https://github.com/ANUSER1"><img title="Author" src="https://img.shields.io/badge/Author-ANUSER-ANUSER1\DARK?color=black&style=for-the-badge&logo=whatsapp"></a>

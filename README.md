@@ -33,7 +33,7 @@ Click WA logo to Join Support Group 👇
 </p>
 
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/SOLO.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/ADBOT.git)
      
 
 

@@ -1,117 +1,47 @@
-<div align="center"
+><img src="https://fontmeme.com/permalink/211127/4605151a559c52b9f68ec36948af3756.png" alt="google-font" border="0"></a>
+<div align="center">
 
+<h3 align="center">🎗️🅢︎🅞︎🅛︎🅞︎🎗️</h3>
 
-[![KINGS-AS](https://github.com/KINGS-AS.png?size=100000)](https://github.com/KINGS-AS)
+<div align="center">
 
-## [![RDX](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=Welcome+to+RDX+WA+Bot+repo;Created+by+ABHIRAM+SACHU;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![ANUSER](https://readme-typing-svg.herokuapp.com?font=black+light&color=FFA500&lines=🅦︎🅔︎🅛︎🅒︎🅞︎🅜︎🅔︎+Ⓣ︎Ⓞ︎+🅢︎🅞︎🅛︎🅞︎+Ⓦ︎Ⓐ︎+🅑︎🅞︎🅣︎+Ⓡ︎Ⓔ︎Ⓟ︎Ⓞ︎.;🅒︎🅡︎🅔︎🅐︎🅣︎🅔︎🅓︎+Ⓑ︎Ⓨ︎+🅐︎🅝︎🅤︎🅢︎🅔︎🅡︎+;Ⓣ︎Ⓗ︎Ⓘ︎Ⓢ︎+🅘︎🅢︎+Ⓐ︎+🅑︎🅖︎🅜︎+Ⓢ︎Ⓣ︎Ⓘ︎Ⓒ︎Ⓚ︎Ⓔ︎Ⓡ︎+🅑︎🅞︎🅣︎;Ⓦ︎Ⓘ︎Ⓣ︎Ⓗ︎+🅜︎🅞︎🅡︎🅔︎+Ⓕ︎Ⓔ︎Ⓐ︎Ⓣ︎Ⓤ︎Ⓔ︎Ⓡ︎Ⓢ︎;🅣︎🅐︎🅝︎🅚︎🅢︎+Ⓕ︎Ⓞ︎Ⓡ︎+🅥︎🅘︎🅢︎🅘︎🅣︎🅘︎🅝︎🅖︎+Ⓞ︎Ⓤ︎Ⓡ︎+🅖︎🅘︎🅣︎)](https://git.io/typing-svg)
 
-
+ </a>
+</p>
+<div align="center">
   <p align="center">
-<a href="https://github.com/KINGS-AS"><img title="Author" src="https://img.shields.io/badge/Author-KINGS-AS/RDX?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<img src="ANUSER1.jpg?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
+</p>
+  <p align="center">
+<a href="https://github.com/ANUSER1"><img title="Author" src="https://img.shields.io/badge/Author-ANUSER-ANUSER1\DARK?color=black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/KINGS-AS">KINGS-AS</a> to make it public
+𝑷𝑹𝑶𝑱𝑬𝑪𝑻 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑨𝑵𝑼𝑺𝑬𝑹
     <br>
        | © |
-        Reserved |
-    <br> 
-</p>
-
-----
-
-<h3 align="center">Contact Me:</h3>
-<p align="center">
-<a href="https://instagram.com/sachu_abhiram_aj?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-</p>
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-<p align="center">
-<a href="https://youtube.com/channel/UCtcc7j8nB7WfFJ0YJvml13w" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-</p>
-  
-
-<p align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KINGS-AS&show_icons=true&theme=dark&locale=en" alt="KINGS-AS" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KINGS-AS&theme=dark" alt="KINGS-AS" /></p>
-</p>
-
-
-
-## Setup
-<div align="center">
-
-  ### Simple Method
-
-1. [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
-
-2. Click [FORK](https://github.com/KINGS-AS/RDX/fork)
-
-3. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX copy this url and change KINGS-AS with your github username and click GO<br>
-
-### this method not working ⬇️
-
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX.git)
+        
     
- </div>
+
+  <h3 align="center">📢 Support wa Group :</h3>
+<p align="center">
+Click WA logo to Join Support Group 👇
+    <br>
 <br>
-<br >
- 
-<div align="center">
-
-  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
-```bash <(curl -L https://t.ly/tHxh)```
-            
-### The Hard Method
-```js
-GET QR
-$ apt update
-$ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/KINGS-AS/RDX
-$ cd RDX
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node qr.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/KINGS-AS/RDX
-$ cd RDX
-$ chmod +x *
-$ npm i
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
+  <a href="https://chat.whatsapp.com/CTqoTm0dnX8FsNmaFRYmJ4" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+</p>
 
 
-### ⚠️ Warning! 
-```
-Due to Whatsapp bot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, RDX executives do not accept responsibility.
-By establishing the RDX, you are deemed to have accepted these responsibilities.
-```
-
-## Developers
-  <div align="center">
-    
-  [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS) | [![KINGS-AS](https://i.imgur.com/14w3OJb.jpeg?size=100)](https://github.com/KINGS-AS) | [![KINGS-AS](https://github.com/KINGS-AS.png?size=100)](https://github.com/KINGS-AS) 
-----|----|----
-[Abhiram Sachu](https://github.com/KINGS-AS) | [Abhiram Sachu](https://github.com/KINGS-AS) | [Abhiram Sachu](https://github.com/KINGS-AS)
-Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
-  </div>
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/SOLO.git)
+     
 
 
-        
-        
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
 
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@ANUSER1/ACE-V1#index.js)
 
+
+
+
+
+꧁𓂸❣︎𝐀𝐍𝐎𝐓𝐇𝐄𝐑 𝐆𝐈𝐓 𝐇𝐔𝐁 𝐋𝐈𝐍𝐊❣︎𓂸꧂   https://github.com/ANUSER1/ACE-V1

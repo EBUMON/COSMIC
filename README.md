@@ -1,11 +1,11 @@
 ><img src="https://fontmeme.com/permalink/211127/4605151a559c52b9f68ec36948af3756.png" alt="google-font" border="0"></a>
 <div align="center">
 
-<h3 align="center">🎗️🅢︎🅞︎🅛︎🅞︎🎗️</h3>
+<h3 align="center">꧁༒︎𝐀𝐃𝐁𝐎𝐓༒︎꧂</h3>
 
 <div align="center">
 
-## [![ANUSER](https://readme-typing-svg.herokuapp.com?font=black+light&color=FFA500&lines=🅦︎🅔︎🅛︎🅒︎🅞︎🅜︎🅔︎+Ⓣ︎Ⓞ︎+🅢︎🅞︎🅛︎🅞︎+Ⓦ︎Ⓐ︎+🅑︎🅞︎🅣︎+Ⓡ︎Ⓔ︎Ⓟ︎Ⓞ︎.;🅒︎🅡︎🅔︎🅐︎🅣︎🅔︎🅓︎+Ⓑ︎Ⓨ︎+🅐︎🅝︎🅤︎🅢︎🅔︎🅡︎+;Ⓣ︎Ⓗ︎Ⓘ︎Ⓢ︎+🅘︎🅢︎+Ⓐ︎+🅑︎🅖︎🅜︎+Ⓢ︎Ⓣ︎Ⓘ︎Ⓒ︎Ⓚ︎Ⓔ︎Ⓡ︎+🅑︎🅞︎🅣︎;Ⓦ︎Ⓘ︎Ⓣ︎Ⓗ︎+🅜︎🅞︎🅡︎🅔︎+Ⓕ︎Ⓔ︎Ⓐ︎Ⓣ︎Ⓤ︎Ⓔ︎Ⓡ︎Ⓢ︎;🅣︎🅐︎🅝︎🅚︎🅢︎+Ⓕ︎Ⓞ︎Ⓡ︎+🅥︎🅘︎🅢︎🅘︎🅣︎🅘︎🅝︎🅖︎+Ⓞ︎Ⓤ︎Ⓡ︎+🅖︎🅘︎🅣︎)](https://git.io/typing-svg)
+## [![ANUSER](https://readme-typing-svg.herokuapp.com?font=black+light&color=FFA500&lines=🅦︎🅔︎🅛︎🅒︎🅞︎🅜︎🅔︎+Ⓣ︎Ⓞ︎+🅐︎🅓︎🅑︎🅞︎🅣︎+Ⓦ︎Ⓐ︎+🅑︎🅞︎🅣︎+Ⓡ︎Ⓔ︎Ⓟ︎Ⓞ︎.;🅒︎🅡︎🅔︎🅐︎🅣︎🅔︎🅓︎+Ⓑ︎Ⓨ︎+🅐︎🅝︎🅤︎🅢︎🅔︎🅡︎+;Ⓣ︎Ⓗ︎Ⓘ︎Ⓢ︎+🅘︎🅢︎+Ⓐ︎+🅑︎🅖︎🅜︎+Ⓢ︎Ⓣ︎Ⓘ︎Ⓒ︎Ⓚ︎Ⓔ︎Ⓡ︎+🅑︎🅞︎🅣︎;Ⓦ︎Ⓘ︎Ⓣ︎Ⓗ︎+🅜︎🅞︎🅡︎🅔︎+Ⓕ︎Ⓔ︎Ⓐ︎Ⓣ︎Ⓤ︎Ⓔ︎Ⓡ︎Ⓢ︎;🅣︎🅐︎🅝︎🅚︎🅢︎+Ⓕ︎Ⓞ︎Ⓡ︎+🅥︎🅘︎🅢︎🅘︎🅣︎🅘︎🅝︎🅖︎+Ⓞ︎Ⓤ︎Ⓡ︎+🅖︎🅘︎🅣︎)](https://git.io/typing-svg)
 
  </a>
 </p>

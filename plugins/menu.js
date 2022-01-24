@@ -17,11 +17,11 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨Abhiram sachu✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨COSMIC BOT CREATED BY ANSHID✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐑𝐝𝐱 𝐁𝐨𝐭.
-            *𝐑𝐃𝐗 𝐁𝐎𝐓*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 COSMIC BOT.
+            *CREATED BY ANSHID*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -78,7 +78,7 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -wallpaper
 🛑𝙐𝙨𝙚➜ It sends you random wallpaper.
 
-■□■□■□■□■□𝐑𝐃𝐗 𝐁𝐎𝐓■□■□■□■□■□
+■□■□■□■□■□C0SMIC BIT■□■□■□■□■□
 ♟ *𝙁𝙪𝙣 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♟
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -joke 
@@ -120,7 +120,7 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -anime <text>
 🛑𝙐𝙨𝙚➜  Gives you info about anime.
-⚠️anime 𝐑𝐃𝐗 𝐁𝐎𝐓
+⚠️anime COSMIC𝐁𝐎𝐓
 ■□■□■□■□■𝐑𝐃𝐗 𝐁𝐎𝐓□■□■□■□■□■□
 ♝ *𝙎𝙩𝙞𝙘𝙠𝙚𝙧 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♝
 
@@ -132,10 +132,10 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -attp <text>
 🛑𝙐𝙨𝙚➜ Converts text into glowing sticker.
-⚠️ex  attp 𝐑𝐃𝐗 𝐁𝐎𝐓
+⚠️ex  attpCOSMIC 𝐁𝐎𝐓
 ■□■□■□■□■□■□■□■□■□■□
-═════💢𝐑𝐃𝐗 𝐁𝐎𝐓💢═════
-▣▣▣▣▣▣▣▣𝐀𝐒▣▣▣▣▣▣▣▣▣▣▣
+═════💢COSMIC 𝐁𝐎𝐓💢═════
+▣▣▣▣▣▣▣▣COSMIC▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
 

@@ -1,0 +1,28 @@
+{
+  "name": "COSMIC-Bot",
+  "version": "2.0.0",
+  "description": "COSMIC whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./DARK/bot.js",
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANUSER1/COSMIC.git"
+  },
+  "keywords": [
+    "WhatsApp",
+    "bgm",
+    "Bot"
+  ],
+  "author": "AsenaDev / Yusuf Usta",
+  "developer": "Ameer suhail / @phaticusthiccy",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ANUSER1/COSMIC/issues"
+  },
+  "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
+  "dependencies": {
+    "raganork-bot": "1.4.2"
+  }
+}

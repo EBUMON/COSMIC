@@ -12,13 +12,11 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `RDX Bot Created By Abhiram Sachu
 Creator number 👉: wa.me/916238560742
 
-
-
 Githublink (Setup)  👇:    https://github.com/ANUSER1/COSMIC
 
 DEPLOYE  👇:  https://heroku.com/deploy?template=https://github.com/ANUSER1/COSMIC.git
 
-PUBLIC BOT GROUP 👇: https://chat.whatsapp.com/CaFM7tvnK3TLs8UX0oQWT7
+PUBLIC BOT GROUP 👇: https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf
 
 
 `}) 

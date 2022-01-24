@@ -72,10 +72,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart RDX BOT",
-            "RESTART_MSG": "```Restarting...😈```",
-            "SHUTDOWN_DESC": "Shutdown RDX BOT",
-            "SHUTDOWN_MSG": "```Shutting down 😴```",
+            "RESTART_DESC": "ʀᴇsᴛᴀʀᴛɪɴɢ ᴄᴏsᴍɪᴄ ʙᴏᴛ",
+            "RESTART_MSG": "```ʀᴇsᴛᴀʀᴛɪɴɢ...😈```",
+            "SHUTDOWN_DESC": "sʜᴜᴛᴛɪɴɢ ᴅᴏᴡɴ",
+            "SHUTDOWN_MSG": "```ᴄᴏsᴍɪᴄ ʙᴏᴛ ɪs ᴏғғ 😴```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -97,23 +97,23 @@
             "NEED_REPLY": "*❌ Please type in reply!*\n*Example:*",
             "FILTERED": "*✅ Successfully set* ```{}``` *to filter!*",
             "STOP_DESC": "Stops the filter you added previously.",
-            "NEED_FILTER": "*❌ Please type a filter!*\n*Example:*",
+            "NEED_FILTER":"*❌ Please type a filter!*\n*Example:*",
             "ALREADY_NO_FILTER": "*❌ There is already no filter like this!*",
             "DELETED": "*✅ The filter was successfully deleted!*"
         },
         "greetings": {
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
             "NOT_SET_WELCOME": "*You don't set the welcome message yet.!*\n**To set:** ```.welcome your welcome message```",
-            "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
-            "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
-            "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅ Welcome message has been set successfully!*",
+            "WELCOME_ALREADY_SETTED": "*✅ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐎𝐊𝐊𝐄 𝐒𝐄𝐓𝐓𝐀𝐍𝐍𝐔 𝐌𝐎𝐍𝐎𝐎𝐒𝐄𝐀!*\n*Message:* ```",
+            "NEED_WELCOME_TEXT": "*𝐘𝐨𝐮 𝐦𝐮𝐬𝐭 𝐰𝐫𝐢𝐭𝐞 𝐚 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐭𝐨 𝐬𝐞𝐭 𝐮𝐩 𝐭𝐡𝐞 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞.*\n*Example:* ```.welcome WELCOME!```",
+            "WELCOME_DELETED": "*✅ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐎𝐘𝐈𝐕𝐀𝐊𝐊𝐈!*",
+            "WELCOME_SETTED": "*✅ 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐒𝐄𝐓𝐀𝐘𝐈𝐊𝐊𝐔𝐍𝐍𝐔!*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
             "NOT_SET_GOODBYE": "*You didn't set a goodbye message!*\n*To set:* ```.goodbye Your Goodbye Message```",
-            "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
-            "NEED_GOODBYE_TEXT": "*You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye Goodbye!```",
-            "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully!*"
+            "GOODBYE_ALREADY_SETTED": "*✅ 𝐆𝐎𝐎𝐃𝐁𝐘𝐄 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐎𝐊𝐊𝐄𝐀 𝐒𝐄𝐓𝐓𝐀𝐍𝐍𝐔 𝐌𝐎𝐍𝐎𝐎𝐒𝐄𝐀!*\n*Message:* ```",
+            "NEED_GOODBYE_TEXT": "*𝐲𝐨𝐮 𝐦𝐮𝐬𝐭 𝐰𝐫𝐢𝐭𝐞 𝐚 𝐦𝐞𝐬𝐬𝐚𝐠𝐞 𝐭𝐨 𝐬𝐞𝐭 𝐮𝐩 𝐭𝐡𝐞 𝐰𝐞𝐥𝐜𝐨𝐦𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐞.*\n*Example:* ```.goodbye Goodbye!```",
+            "GOODBYE_DELETED": "*✅ 𝐆𝐎𝐎𝐃𝐁𝐘𝐄 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐎𝐘𝐈𝐕𝐀𝐊𝐊𝐈!*",
+            "GOODBYE_SETTED": "*✅ 𝐆𝐎𝐎𝐃𝐁𝐘𝐄 𝐌𝐄𝐒𝐒𝐀𝐆𝐄 𝐒𝐄𝐓𝐀𝐘𝐈𝐊𝐊𝐔𝐍𝐍𝐔!*"
         },
         "lydia": {
             "ADDLYDIA_DESC": "Activates Lydia (AI) for the user.",
@@ -127,7 +127,7 @@
         },
         "memes": {
             "MEMES_DESC": "Photo memes you replied to.",
-            "NEED_REPLY": "*Reply to a photo!*",
+            "NEED_REPLY": "*𝑬𝒅𝒂 𝒑𝒐𝒕𝒕𝒂 𝒐𝒓𝒖 𝒑𝒉𝒐𝒕𝒐𝒚𝒖𝒅𝒆𝒂 𝒓𝒆𝒑𝒍𝒚 𝒕𝒉𝒂!*",
             "DOWNLOADING": "```Downloading media & making meme...```"
         },
         "log": {
@@ -142,24 +142,24 @@
         },
         "ocr": {
             "OCR_DESC": "Reads the text on the photo you have replied.",
-            "NEED_REPLY": "*Reply to a photo!*",
+            "NEED_REPLY": "*𝑬𝒅𝒂 𝒑𝒐𝒕𝒕𝒂 𝒐𝒓𝒖 𝒑𝒉𝒐𝒕𝒐𝒌𝒌𝒖 𝒓𝒆𝒑𝒍𝒚 𝒕𝒉𝒂!*",
             "DOWNLOADING": "```Media is downloading & reading...```",
             "ERROR": "```I couldn't read this :/```\n*Error:*```{}```\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```𝑵𝑨𝑵 𝑷𝑶𝑶𝑽𝑨 🤠```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
-            "NEED_PHOTO": "*Give me a photo!*",
+            "NEED_PHOTO": "*𝑬𝒅𝒂 𝒐𝒓𝒖 𝒑𝒉𝒐𝒕𝒐 𝒕𝒉𝒂!*",
             "PPING": "```Setting profile photo...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
-            "BLOCKED": "blocked",
-            "UNBLOCKED": "unblocked",
-            "BLOCKED_UPPER": "Blocked!",
-            "UNBLOCKED_UPPER": "Unblocked.",
-            "NEED_USER": "Give me a user!",
+            "BLOCKED": "𝑩𝑳𝑶𝑪𝑲𝑬𝑫",
+            "UNBLOCKED": "𝑼𝑵𝑩𝑳𝑶𝑪𝑲𝑬𝑫",
+            "BLOCKED_UPPER": "𝑩𝑳𝑶𝑪𝑲𝑬𝑫!",
+            "UNBLOCKED_UPPER": "𝑼𝑵𝑩𝑳𝑶𝑪𝑲𝑬𝑫.",
+            "NEED_USER": "𝑬𝑫𝑨 𝑶𝑹𝑼 𝑼𝑺𝑬𝑹 𝑻𝑯𝑨!",
             "JID_DESC": "Giving user's JID.",
             "JID": "```JID address of``` @{} ```: {}```",
             "JID_CHAT": "```Chat's JID address: {}```"
@@ -186,25 +186,25 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*RDX SONG SEARCHING 🔍 🧚‍♂️*\n",
-            "UPLOADING_SONG": "\n*🌝RDX Unloading Use 🎧*\n",
-            "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```RDX Downloading 🎥...```",
-            "UPLOADING_VIDEO": "```RDX Uploading...```",
+            "DOWNLOADING_SONG": "\n*𝑵𝑨𝑵 𝑺𝑶𝑵𝑮 𝑵𝑶𝑲𝑲𝑨𝑻𝑻𝑬𝑨 𝑾𝑰8 🔍 🧚‍♂️*\n",
+            "UPLOADING_SONG": "\n*🌝𝑰𝑵𝑵𝑨 𝑵𝑰𝑵𝑻𝑬𝑨 𝑺𝑶𝑵𝑮 🎧*\n",
+            "VIDEO_DESC": "𝑫𝑶𝑾𝑵𝑳𝑶𝑨𝑫𝑺 𝑽𝑰𝑫𝑬𝑶 𝑭𝑹𝑶𝑴 𝒀𝑼𝑶𝑻𝑼𝑩𝑬.",
+            "NEED_VIDEO": "*𝑬𝑫𝑨 𝑶𝑹𝑼 𝑳𝑰𝑵𝑲 𝑻𝑯𝑨!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "DOWNLOADING_VIDEO": "```𝑫𝑶𝑾𝑵𝑳𝑶𝑨𝑫𝑰𝑵𝑮 𝑾𝑰8 🎥...```",
+            "UPLOADING_VIDEO": "```𝑰𝑵𝑵𝑨 𝑵𝑰𝑵𝑻𝑬𝑨 𝑽𝑰𝑫𝑬𝑶...```",
             "YT_DESC": "It searchs on YouTube.",
-            "NEED_WORDS": "```Please write a few words!```",
-            "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*RDX Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*RDX 🔎 Searching...*",
+            "NEED_WORDS": "```𝑬𝑫𝑨 𝑬𝑵𝑻𝑯𝑵𝑮𝑯𝑰𝑳𝑼𝑴 𝑶𝑵𝑵𝑼 𝑻𝒀𝑷𝑬 𝑪𝑯𝑬𝑬𝒀 5 𝑨𝑲𝑺𝑯𝑹𝑨𝑴 𝑨𝑹𝑬𝑬𝒀𝑼𝑳𝑳𝑨!```",
+            "GETTING_VIDEOS": "```𝑰 𝑨𝑴 𝑩𝑹𝑰𝑵𝑮𝑰𝑵𝑮 𝑽𝑰𝑫𝑬𝑶𝑺...```",
+            "NOT_FOUND": "*𝑬𝑫𝑨 𝑬𝑵𝑮𝑨𝑵𝑬𝑨 𝑶𝑹𝑼 𝑽𝑰𝑫𝑬𝑶 𝑼𝑵𝑫𝑶 ? 𝑷𝑶𝑻𝑻𝑨𝑵 𝑶𝑹𝑼 𝑨𝑲𝑺𝑯𝑨𝑹𝑽𝑼𝑴 𝑨𝑹𝑬𝑬𝒀𝑰𝑳𝑳𝑨 𝑲𝑨𝒀𝑰𝑻𝑯𝑨 ☹️*",
+            "SEARCHING": "*𝑵𝑶𝑲𝑲𝑨𝑻𝑻𝑬𝑨 𝑼𝑵𝑫𝑨𝑮𝑯𝑰𝑳 𝑽𝑰𝑫 𝑾𝑰8...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "```RDX Uploading photo``` *{}* ```number``` *{}*"
+            "IMG": "```𝑰𝑵𝑵𝑨 𝑷𝑯𝑶𝑻𝑶``` *{}* ```number``` *{}*"
         },
         "sticker": {
-            "STICKER_DESC": "RDX It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*RDX Reply to a photo or video!*",
-            "DOWNLOADING": "```oky bhai🤠```"
+            "STICKER_DESC": " It converts your replied photo or video to sticker.",
+            "NEED_REPLY": "*𝑬𝑫𝑨 𝑷𝑶𝑻𝑻𝑨 𝑶𝑹𝑼 𝑽𝑰𝑫𝑬𝑶 𝑶𝑹 𝑷𝑯𝑶𝑻𝑶𝑲𝑲𝑼 𝑹𝑬𝑷𝑳𝒀 𝑻𝑯𝑨 !*",
+            "DOWNLOADING": "```𝑰𝑵𝑵𝑨🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -219,11 +219,11 @@
             "UPDATE": "Rdx bot is completely up-to-date!*",
             "NEW_UPDATE": "*RDX Update Available*\n\n please ask owner and updating. Otherwise chance to get error\n Max Error oyvakkan massage cheyyu \n https://wa.me/qr/62FORLJKJZ4WP1 \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
-            "UPDATING": "```*RDX  Updating*..😈```",
+            "UPDATING": "```*𝑪𝑶𝑺𝑴𝑰𝑪 𝑩𝑶𝑻 𝑰𝑺 𝑼𝑷𝑫𝑨𝑻𝑰𝑵𝑮*..😈```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*RDX Updated* 🤠✅",
+            "UPDATED": "*𝑪𝑶𝑺𝑴𝑰𝑪 𝑩𝑶𝑻 𝑰𝑺 𝑼𝑷𝑨𝑫𝑻𝑬𝑫* 🤠✅",
             "UPDATED_LOCAL": "✅ *Successfully Updated*!",
-            "AFTER_UPDATE": "😎 *RDX Restarting*"
+            "AFTER_UPDATE": "😎 *𝑹𝑬𝑺𝑻𝑨𝑹𝑻𝑰𝑵𝑮 𝑾𝑰8 1𝑴𝑰𝑵 𝑷𝑰𝑫𝑰𝑲𝑲𝑼𝑴*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",

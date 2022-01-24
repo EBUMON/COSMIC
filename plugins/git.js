@@ -14,13 +14,11 @@ Creator number 👉: wa.me/916238560742
 
 
 
-Githublink (Setup)  👇:    https://github.com/ANUSER1/ADBOT
+Githublink (Setup)  👇:    https://github.com/ANUSER1/COSMIC
 
-QR       👇:  https://replit.com/@phaticusthiccy/WhatsAsena-QR
+DEPLOYE  👇:  https://heroku.com/deploy?template=https://github.com/ANUSER1/COSMIC.git
 
-DEPLOYE  👇:  https://heroku.com/deploy?template=https://github.com/ANUSER1/ADBOT.git
-
-AS BOT GROUP 👇: https://chat.whatsapp.com/CaFM7tvnK3TLs8UX0oQWT7
+PUBLIC BOT GROUP 👇: https://chat.whatsapp.com/CaFM7tvnK3TLs8UX0oQWT7
 
 
 `}) 

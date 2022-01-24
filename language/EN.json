@@ -15,7 +15,7 @@
             "INSTALL_DESC": "Install external plugins.",
             "NEED_URL": "Please enter a URL! Example:",
             "INVALID_URL": "```Please enter a valid url!```",
-            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
+            "INVALID_PLUGIN": "*❌ Your plugin is invalid!*\n*Error:\n Max Error oyvakkan join cheyyu  https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf*",
             "INSTALLED": "*✅ Plugin has been successfully installed!*",
             "PLUGIN_DESC": "Shows the plugins you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins you install externally:*\n",
@@ -144,7 +144,7 @@
             "OCR_DESC": "Reads the text on the photo you have replied.",
             "NEED_REPLY": "*𝑬𝒅𝒂 𝒑𝒐𝒕𝒕𝒂 𝒐𝒓𝒖 𝒑𝒉𝒐𝒕𝒐𝒌𝒌𝒖 𝒓𝒆𝒑𝒍𝒚 𝒕𝒉𝒂!*",
             "DOWNLOADING": "```Media is downloading & reading...```",
-            "ERROR": "```I couldn't read this :/```\n*Error:*```{}```\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw```",
+            "ERROR": "```I couldn't read this :/```\n*Error:*```{}```\n Max Error oyvakkan join cheyyu https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf```",
             "RESULT": "*Language:* ```{}```\n*Here is what I read:* ```{}```"
         },
         "profile": {
@@ -177,7 +177,7 @@
             "LANG": "Language",
             "FROM": "Translated Language",
             "RESULT": "Translate",
-            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw*",
+            "TRANSLATE_ERROR": "❌ An error occured while translating!*\n Max Error oyvakkan join cheyyu https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf*",
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
@@ -217,7 +217,7 @@
         "updater": {
             "UPDATER_DESC": "Checks the update.",
             "UPDATE": "𝐂𝐎𝐒𝐌𝐈𝐂 𝐁𝐎𝐓 𝐈𝐒 𝐔𝐏 𝐓𝐎 𝐃𝐀𝐓𝐄!*",
-            "NEW_UPDATE": "*𝐂𝐎𝐒𝐌𝐈𝐂 𝐁𝐎𝐓𝐈𝐍𝐔 𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐍𝐃*\n\n please ask owner and updating. Otherwise chance to get error\n Max Error oyvakkan massage cheyyu \n https://wa.me/qr/62FORLJKJZ4WP1 \n\nChanges:\n```",
+            "NEW_UPDATE": "*𝐂𝐎𝐒𝐌𝐈𝐂 𝐁𝐎𝐓𝐈𝐍𝐔 𝐔𝐏𝐃𝐀𝐓𝐄 𝐔𝐍𝐃*\n\n please ask owner and updating. Otherwise chance to get error\n Max Error oyvakkan join cheyyu \n https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```*𝑪𝑶𝑺𝑴𝑰𝑪 𝑩𝑶𝑻 𝑰𝑺 𝑼𝑷𝑫𝑨𝑻𝑰𝑵𝑮*..😈```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",

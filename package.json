@@ -1,14 +1,14 @@
 {
-  "name": "COSMO",
+  "name": "COSMIC",
   "version": "1.0.0",
-  "description": "COSMO whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "description": "COSMIC whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./ADBOT/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ANUSER1/COSMO.git"
+    "url": "git+https://github.com/ANUSER1/COSMIC.git"
   },
   "keywords": [
     "WhatsApp",
@@ -16,11 +16,11 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Abhiram Sachu / @phaticusthiccy",
+  "developer": " / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/ANUSER1/COSMO/issues"
-  },
+    "url": "https://github.com/ANUSER1/COSMIC/issues"
+  }
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
     "raganork-bot": "1.4.2"

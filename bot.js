@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🄸🅂 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
                 }
             }
             else {
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🄸🅂 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
                 }
 
             }
@@ -212,7 +212,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🄸🅂 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
                 }
             }
             else {
@@ -235,7 +235,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🄸🅂 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '🤖🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🅂🅃🄰🅁🅃🄴🄳🤖', MessageType.text);
                 }
             }
         }
@@ -384,7 +384,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ *🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🄴🅁🅁🄾🅁 🄵🄾🅄🄽🄳!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Connect owner https://wa.me916238560742``` ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Max Error oyvakkan join cheyyu  https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf``` ' 
                                     , MessageType.text);
                             }
                         }

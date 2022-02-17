@@ -51,7 +51,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@ANUSER1/ACE-V1#index.js)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/ANUSER1/COSMIC.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/khadher05/COSMIC.git)
      </div>
 <br>
 <br >

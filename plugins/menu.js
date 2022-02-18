@@ -17,7 +17,7 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨COSMIC BOT CREATED BY ANSHID✨️━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨COSMIC BOT CREATED BY KHADHER✨️━━━━━⛦
 
 
 𝑯𝒆𝒍𝒍𝒐👋 𝑰 𝒂𝒎 𝑪𝒐𝒔𝒎𝒊𝒄 𝒃𝒐𝒕.

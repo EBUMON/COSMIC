@@ -97,8 +97,8 @@ By establishing the COSMO BOT, you are deemed to have accepted these responsibil
 ## Developers
   <div align="center">
     
-  [![ANSHID](https://github.com/khadher05.png?size=10000)](https://github.com/khadher05) | 
-[ANUSER1](https://github.com/khadher05) | 
+  [![KHADER](https://github.com/khadher05.png?size=10000)](https://github.com/khadher05) | 
+[KHADHER](https://github.com/khadher05) | 
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 

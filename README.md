@@ -4,15 +4,15 @@
 <div align="center"
 
 
-[![COSMO](COSMIC.jpg?size=100000)](https://github.com/ANUSER1)
+[![COSMO](COSMIC.jpg?size=100000)](https://github.com/khadher05)
 
-## [![COSMO](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅰︎🅽︎🆄︎🆂︎🅴︎🆁︎+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🅰︎🅽︎🆂︎🅷︎🅸︎🅳︎+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](https://bit.ly/2VM4lxF)
+## [![COSMO](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=0000FF&lines=🆆︎🅴︎🅻︎🅲︎🅾︎🅼︎🅴︎+🅃🄾+🅲🅾🆂🅼🅸🅲+🅆🄰+🅱︎🅾︎🆃︎+🅁🄴🄿🄾;🅲︎🆁︎🅴︎🅰︎🆃︎🅴︎🅳︎+🄱🅈+🅺🅷🅰🅳🅷🅴🆁+;🅃🄷🄸🅂+🅸︎🆂︎+🅃🄷🄴+🅱︎🅴︎🆂︎🆃︎+🄱🄶🄼+🅱︎🅾︎🆃︎;🅆🄸🅃🄷+🅼︎🅾︎🆁︎🅴︎+🄵🄴🄰🅄🅃🄴🅁🅂)](wa.me/917025191792) )
 
 
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ANUSER1">ANSHID</a> to make it public
+Project created by <a href="https://github.com/khadher05">KHADHER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,15 +23,15 @@ Project created by <a href="https://github.com/ANUSER1">ANSHID</a> to make it pu
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/_0anshid0_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/__khadher__?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ANUSER1&show_icons=true&theme=dark&locale=en" alt="ANUSER1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khadher05&show_icons=true&theme=dark&locale=en" alt="khadher05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ANUSER1&theme=dark" alt="ANUSER1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khadher05&theme=dark" alt="khadher05" /></p>
 </p>
 
 
@@ -58,8 +58,7 @@ Click WA logo to Join Support Group 👇
  
 <div align="center">
 
-  If Repl.it not working Try Termux for Qr scanning.Just Copy this Link Below in Termux
-```bash <(curl -L https://t.ly/tHxh)```
+  If Repl.it not working Try Termux for Qr scanning.
             
 ### The Hard Method
 ```js
@@ -67,7 +66,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ANISER1/COSMO
+$ git clone https://github.com/khadher05/COSMO
 $ cd COSMO
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -77,7 +76,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ANUSER1/COSMO
+$ git clone https://github.com/khadher05/COSMO
 $ cd COSMO
 $ chmod +x *
 $ npm i
@@ -98,8 +97,8 @@ By establishing the COSMO BOT, you are deemed to have accepted these responsibil
 ## Developers
   <div align="center">
     
-  [![ANSHID](https://github.com/ANUSER1.png?size=10000)](https://github.com/ANUSER1) | 
-[ANUSER1](https://github.com/ANUSER1) | 
+  [![ANSHID](https://github.com/khadher05.png?size=10000)](https://github.com/khadher05) | 
+[ANUSER1](https://github.com/khadher05) | 
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 

@@ -384,7 +384,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~_________~ *🄲🄾🅂🄼🄸🄲 🄱🄾🅃 🄴🅁🅁🄾🅁 🄵🄾🅄🄽🄳!* ~______~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Max Error oyvakkan join cheyyu  https://chat.whatsapp.com/KeEMhqBW644IN46PYsGDWf``` ' 
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n```Max Error oyvakkan join cheyyu  https://chat.whatsapp.com/CYO984wWp6o1FeyKHpn8Aw``` ' 
                                     , MessageType.text);
                             }
                         }

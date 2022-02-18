@@ -72,7 +72,7 @@
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart OXYMORON\n",
+            "RESTART_DESC": "\nRestart COSMIC \n",
             "RESTART_MSG": "```punararambikkunu...```",
             "SHUTDOWN_DESC": "\nShutdown OXYMORON\n",
             "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
@@ -196,7 +196,7 @@
             "NEED_WORDS": "```search cheyende words type cheyyu!```",
             "GETTING_VIDEOS": "```video link kond verunnu...```",
             "NOT_FOUND": "*Thappinokeett kittiyilla ☹️*",
-            "SEARCHING": "*RDX 🔎 searching...*",
+            "SEARCHING": "*COSMIC BOT 🔎 searching...*",
             "WIKI_DESC": "Wikipedia yill search cheyyaan.",
             "IMG_DESC": "googlil chithram search cheyaan.",
             "IMG": "chithram upload cheyyunu ```{}``` number ```{} ```..."

@@ -10,7 +10,7 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
     var r_text = new Array ();
     
     
-    r_text[0] = "https://i.ibb.co/KWyM3Qw/COSMIC.jpg";
+    r_text[0] = "https://i.imgur.com/232HsEg.jpeg";
     
     
     var i = Math.floor(1*Math.random())

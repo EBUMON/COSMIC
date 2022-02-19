@@ -121,9 +121,9 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 if (config.TALKING_PINKY == 'true') pinky = 'On'
 if (config.TALKING_PINKY == 'false') pinky = 'Off'
 if (config.AUTOBİO == 'true') autobio = 'On'
-if (config.AUTOBİO == 'false') autobio = 'Off'
+if (config.AUTOBİO == 'false') autobio = 'on'
 if (config.ANTİLİNK == 'true') antilink = 'On'
-if (config.ANTİLİNK == 'false') antilink = 'Off'
+if (config.ANTİLİNK == 'false') antilink = 'on'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.jpg, detectLinks: true, contextInfo: {mentionedJid: message.mention}, caption: `╭──────────────────╮
    ` + config.BOT + `
